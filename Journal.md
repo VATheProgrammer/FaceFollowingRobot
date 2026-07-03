@@ -1,4 +1,4 @@
-# July 2nd
+# July 2nd(4 hours)
 Ideated the concept of the robot after watching a horror film of a creature that constantly follows you.  
 Decided on a 2 wheeled robot with a camera that detects coordinates of face and moves according to that data.  
 **These are the parts I decided to use for this project:**  

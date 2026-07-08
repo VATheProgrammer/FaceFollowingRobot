@@ -19,7 +19,8 @@ To achieve a highly compact, self-contained system capable of on-device vision p
 
 ## 3. Mechanical Frame & CAD Design
 I made a chasis with CAD:  
-<img width="277" height="214" alt="image" src="https://github.com/user-attachments/assets/016a0b4e-5e7a-4b24-9145-749226b00337" />  
+<img width="277" height="214" alt="image" src="https://github.com/user-attachments/assets/016a0b4e-5e7a-4b24-9145-749226b00337" />  <img width="257" height="169" alt="image" src="https://github.com/user-attachments/assets/5bfa3782-3cd3-4fe5-948a-8b78ab504a7f" />
+
 * **Placement and Balancing of Components:** In the design, the computer vision model has the front as its mounting point for the main camera sensor (XIAO ESP32-S3), thereby ensuring that it gets an undistorted field of view. The actuation components (dual DC motors) have been located at the back of the system, and are balanced by the auxiliary support bearing on the bottom front of the robot.
 * **Optimization of Volume Space:** This design optimizes the interior volume space by reducing the total footprint of the robot. Also, a particular ramp portion was designed to accommodate the batteries.
 * **Rapid Prototyping Techniques:** In order to keep up with fast development pace, some allowance is made in this prototype. High strength tape will be employed to secure the battery and wiring bundles inside the robot before encasing them.

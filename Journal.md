@@ -48,4 +48,4 @@ While True:
   
   
 Such an algorithm was used because I did not want to use any complex algorithms to be run as that would only decrease the frame rate of the camera's proccessing. It is very simple and ensures that the robot can turn towards the face and drive towards it. I used this becuase I was already familiar with how to work something like this after my experience in FTC using a similar algorithm for aligning a turret to an AprilTag using the tx data from a Limelight.  
-I used some ESP 32 documentation alongside the SenseCraft documentation to write this code. I leveraged the use of AI whenever I was stuck in writing the firmware. In the end, I had successfully written a proper code which is ready to be deployed on a ESP 32. This code can be seen on this GitHub repository.
+I used some ESP 32 documentation alongside the SenseCraft documentation to write this code in Visual Studio. I leveraged the use of AI whenever I was stuck in writing the firmware. In the end, I had successfully written a proper code which is (probably) ready to be deployed on a ESP 32. This code can be seen on this GitHub repository.

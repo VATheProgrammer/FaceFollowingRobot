@@ -21,7 +21,8 @@ I chose a XIAO ESP32 S3 Sense with a camera for the "brains" of this robot, as i
 
 ## Mechanical Frame & CAD(1.5 Hours)
 After knowing what parts I was going to use, I used Fusion 360 to CAD a frame to hold all of the robot's parts in:  
-<img width="277" height="214" alt="image" src="https://github.com/user-attachments/assets/016a0b4e-5e7a-4b24-9145-749226b00337" />  <img width="257" height="169" alt="image" src="https://github.com/user-attachments/assets/5bfa3782-3cd3-4fe5-948a-8b78ab504a7f" />
+<img width="231" height="155" alt="image" src="https://github.com/user-attachments/assets/7071f0fd-9b0b-43b6-b3ae-9abfd6517023" />
+<img width="257" height="169" alt="image" src="https://github.com/user-attachments/assets/5bfa3782-3cd3-4fe5-948a-8b78ab504a7f" />
   
 In the design, the XIAO ESP32 S3 is mounted in the very front, ensuring the camera gets the best view possible of its surroundings to detect a face. The wheels are in the very back and supported by a bearing in the front. I ensured that this robot has the minimum footprint possible, and I achieved this by wasting no space to place any items on. I have also decided that tape will be needed to hold down some of the parts, as screwing may add more weight to the robot.
 

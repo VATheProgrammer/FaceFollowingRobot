@@ -28,15 +28,4 @@ In the design, the XIAO ESP32 S3 is mounted in the fery front, ensuring it gets 
 ## 4. Firmware
 This firmware was designed with the following(pseudocode) algorithm in mind:
 
-Initalize Everything  
-turn=0
-acceleration=0  
-  
-If face detected  
-  acceleration = 0.8
-  If face to the right
-    turn=0.2
-  elif face to left
-    turn=-0.2
-leftmotor: acceleration + turn
-rightmotor: acceletation - turn
+<img width="113" height="125" alt="image" src="https://github.com/user-attachments/assets/76ea5160-2d1b-4d3d-acd8-dd52c7372493" />

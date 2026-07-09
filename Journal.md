@@ -11,11 +11,16 @@ I got this project idea from a horror film with a creature that constantly track
 ---
 
 ## Hardware & BOM (30 Minutes)  
-Now that I knew what I wanted it to do and how I wanted it to work, I had to make everything as compact and cost-efficient as possible. To achieve this, I went to Amazon and chose the following materials:  
+Now that I knew what I wanted it to do and how I wanted it to work, I had to make everything as compact and cost-efficient as possible. To achieve this, I chose the following materials:  
 
-<img width="230" height="236" alt="image" src="https://github.com/user-attachments/assets/3ff4535f-618d-4006-af20-e67693a5ee7d" />  
-
-I chose a XIAO ESP32 S3 Sense with a camera for the "brains" of this robot, as it was compact enough to fit in the dimensions I wanted while still having the proccessing capabilities to run a face detection model locally on the robot. As I said before, I used 2 wheels, both controlled by different motors for steering purposes, alongside a bearing for the drivetrain. I chose a bundle that included a motor driver to ensure I didn't have to buy that seperatley, so I could move both motors forwards and backwards. I chose a rechargable battery with a decent capacity to ensure I was able to keep this robot running for a decent amount of time while I was at Open Sauce.
+I chose a XIAO ESP32 S3 Sense with a camera for the "brains" of this robot, as it was compact enough to fit in the dimensions I wanted while still having the proccessing capabilities to run a face detection model locally on the robot.  
+<img width="818" height="712" alt="51hgdPB7atL _AC_SL1400_" src="https://github.com/user-attachments/assets/5c4473b3-6477-4c6c-becb-a9f19da4514f" />  
+I'm using 2 wheels, both controlled by different motors for steering purposes.  
+<img width="293" height="292" alt="image" src="https://github.com/user-attachments/assets/79b36bae-63cb-4735-ae60-c132a7418daa" />  
+I'm using a bearing in the front to stabilize the whole robot without restricitng movement.  
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/03f7135c-4a1b-44e9-b3b7-08cfd4da34c8" />  
+I used a motor driver so I could move both motors forwards and backwards.  
+<img width="158" height="148" alt="image" src="https://github.com/user-attachments/assets/c845632c-7522-4104-ab24-32b1c950cfbf" />  
 
 ---
 
